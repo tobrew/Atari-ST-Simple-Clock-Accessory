@@ -1,7 +1,7 @@
 ;=====================================================================
 ; SCLOCK.ACC - Simple Clock 1.0, a menu bar clock desk accessory
-; for the Atari ST, TOS 1.04. Created by Rick Grinstead.
-;
+; for the Atari ST, TOS 1.04. Created by www.ricksretroprojects.org.
+; 2026
 ; Shows the GEMDOS system time as a 12-hour clock ("h:MMpm" or
 ; "h:MM:SSpm") in the upper right corner of the GEM menu bar, with an
 ; optional beep at the top of each hour, shown by a small dot just
