@@ -1,6 +1,6 @@
 #!/bin/sh
 # Build SCLOCK.ACC (Simple Clock 1.0) from SCLOCK.S with vasm.
-# Rick Grinstead 2026
+# www.ricksretroprojects.org - 2026
 # Needs vasm built for 68k with Motorola syntax (vasmm68k_mot):
 #   Arch: install it from the AUR, or build from source with
 #         make CPU=m68k SYNTAX=mot
