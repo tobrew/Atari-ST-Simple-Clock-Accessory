@@ -10,6 +10,7 @@ If you are using a RTC (real time clock), like an ACSI2STM with battery, it will
 
 <img width="640" height="376" alt="Text Box" src="https://github.com/user-attachments/assets/1567901c-33c0-4aa9-aefc-852de89d323f" />
 <img width="640" height="480" alt="Simple Clock" src="https://github.com/user-attachments/assets/76fbf70b-e673-4910-be57-1eed6c99c994" />
-<img width="640" height="376" alt="Text Box" src="https://github.com/user-attachments/assets/e54a956f-6ef7-4989-b872-910be9045916" />
+<img width="640" height="480" alt="Simple Clock Seconds" src="https://github.com/user-attachments/assets/cb4016d5-2756-46b1-a62e-2d37a5dee90b" />
+
 
 
